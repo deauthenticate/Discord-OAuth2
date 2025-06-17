@@ -1,6 +1,6 @@
 ## Discord OAuth2
 
-A fully OAuth2 joiner for discord using oAuth2 workflow.
+A fully automatic OAuth2 joiner for discord using oAuth2 workflow.
 
 ## Features
 
